@@ -1,0 +1,371 @@
+E:\PSD 9\SISKU\SISKU\bin\Debug\resources\Database\Non-spasial\Icon\fasilitas umum.png
+E:\PSD 9\SISKU\SISKU\bin\Debug\resources\Database\Non-spasial\Icon\lainnya.png
+E:\PSD 9\SISKU\SISKU\bin\Debug\resources\Database\Non-spasial\Icon\rumah sakit.png
+E:\PSD 9\SISKU\SISKU\bin\Debug\resources\Database\Non-spasial\Icon\sekolah.png
+E:\PSD 9\SISKU\SISKU\bin\Debug\resources\Database\Spasial\Batas_Desa_Kec_Umbulharjo.cpg
+E:\PSD 9\SISKU\SISKU\bin\Debug\resources\Database\Spasial\Batas_Desa_Kec_Umbulharjo.dbf
+E:\PSD 9\SISKU\SISKU\bin\Debug\resources\Database\Spasial\Batas_Desa_Kec_Umbulharjo.prj
+E:\PSD 9\SISKU\SISKU\bin\Debug\resources\Database\Spasial\Batas_Desa_Kec_Umbulharjo.sbn
+E:\PSD 9\SISKU\SISKU\bin\Debug\resources\Database\Spasial\Batas_Desa_Kec_Umbulharjo.sbx
+E:\PSD 9\SISKU\SISKU\bin\Debug\resources\Database\Spasial\Batas_Desa_Kec_Umbulharjo.shp
+E:\PSD 9\SISKU\SISKU\bin\Debug\resources\Database\Spasial\Batas_Desa_Kec_Umbulharjo.shx
+E:\PSD 9\SISKU\SISKU\bin\Debug\resources\Database\Spasial\Batas_Kec_Umbulharjo_DanSekitarnya.cpg
+E:\PSD 9\SISKU\SISKU\bin\Debug\resources\Database\Spasial\Batas_Kec_Umbulharjo_DanSekitarnya.dbf
+E:\PSD 9\SISKU\SISKU\bin\Debug\resources\Database\Spasial\Batas_Kec_Umbulharjo_DanSekitarnya.prj
+E:\PSD 9\SISKU\SISKU\bin\Debug\resources\Database\Spasial\Batas_Kec_Umbulharjo_DanSekitarnya.sbn
+E:\PSD 9\SISKU\SISKU\bin\Debug\resources\Database\Spasial\Batas_Kec_Umbulharjo_DanSekitarnya.sbx
+E:\PSD 9\SISKU\SISKU\bin\Debug\resources\Database\Spasial\Batas_Kec_Umbulharjo_DanSekitarnya.shp
+E:\PSD 9\SISKU\SISKU\bin\Debug\resources\Database\Spasial\Batas_Kec_Umbulharjo_DanSekitarnya.shx
+E:\PSD 9\SISKU\SISKU\bin\Debug\resources\Database\Spasial\fasum.cpg
+E:\PSD 9\SISKU\SISKU\bin\Debug\resources\Database\Spasial\fasum.dbf
+E:\PSD 9\SISKU\SISKU\bin\Debug\resources\Database\Spasial\fasum.prj
+E:\PSD 9\SISKU\SISKU\bin\Debug\resources\Database\Spasial\fasum.sbn
+E:\PSD 9\SISKU\SISKU\bin\Debug\resources\Database\Spasial\fasum.sbx
+E:\PSD 9\SISKU\SISKU\bin\Debug\resources\Database\Spasial\fasum.shp
+E:\PSD 9\SISKU\SISKU\bin\Debug\resources\Database\Spasial\fasum.shx
+E:\PSD 9\SISKU\SISKU\bin\Debug\resources\Database\Spasial\Jalan_Kec_Umbulharjo.cpg
+E:\PSD 9\SISKU\SISKU\bin\Debug\resources\Database\Spasial\Jalan_Kec_Umbulharjo.dbf
+E:\PSD 9\SISKU\SISKU\bin\Debug\resources\Database\Spasial\Jalan_Kec_Umbulharjo.prj
+E:\PSD 9\SISKU\SISKU\bin\Debug\resources\Database\Spasial\Jalan_Kec_Umbulharjo.sbn
+E:\PSD 9\SISKU\SISKU\bin\Debug\resources\Database\Spasial\Jalan_Kec_Umbulharjo.sbx
+E:\PSD 9\SISKU\SISKU\bin\Debug\resources\Database\Spasial\Jalan_Kec_Umbulharjo.shp
+E:\PSD 9\SISKU\SISKU\bin\Debug\resources\Database\Spasial\Jalan_Kec_Umbulharjo.shx
+E:\PSD 9\SISKU\SISKU\bin\Debug\resources\Database\Spasial\Batas_Desa_Kec_Umbulharjo.shp.xml
+E:\PSD 9\SISKU\SISKU\bin\Debug\resources\Database\Spasial\fasum.shp.xml
+E:\PSD 9\SISKU\SISKU\bin\Debug\resources\Database\Spasial\Jalan_Kec_Umbulharjo.shp.xml
+E:\PSD 9\SISKU\SISKU\bin\Debug\SISKU.exe
+E:\PSD 9\SISKU\SISKU\bin\Debug\SISKU.pdb
+E:\PSD 9\SISKU\SISKU\bin\Debug\SISKU.xml
+E:\PSD 9\SISKU\SISKU\bin\Debug\Krypton.Ribbon.dll
+E:\PSD 9\SISKU\SISKU\bin\Debug\Krypton.Toolkit.dll
+E:\PSD 9\SISKU\SISKU\bin\Debug\Krypton.Ribbon.xml
+E:\PSD 9\SISKU\SISKU\bin\Debug\Krypton.Toolkit.xml
+E:\PSD 9\SISKU\SISKU\obj\Debug\SISKU.vbproj.AssemblyReference.cache
+E:\PSD 9\SISKU\SISKU\obj\Debug\SISKU.formAddPoint.resources
+E:\PSD 9\SISKU\SISKU\obj\Debug\SISKU.formPopUp.resources
+E:\PSD 9\SISKU\SISKU\obj\Debug\SISKU.Resources.resources
+E:\PSD 9\SISKU\SISKU\obj\Debug\SISKU.vbproj.GenerateResource.cache
+E:\PSD 9\SISKU\SISKU\obj\Debug\SISKU.vbproj.CoreCompileInputs.cache
+E:\PSD 9\SISKU\SISKU\obj\Debug\SISKU.vbproj.CopyComplete
+E:\PSD 9\SISKU\SISKU\obj\Debug\SISKU.exe
+E:\PSD 9\SISKU\SISKU\obj\Debug\SISKU.xml
+E:\PSD 9\SISKU\SISKU\obj\Debug\SISKU.pdb
+E:\PSD 9\SISKU\SISKU\obj\Debug\SISKU.formMainWindow.resources
+E:\PSD 9\SISKU\SISKU\bin\Debug\SISKU.exe.config
+E:\PSD 9\SISKU\SISKU\bin\Debug\DotSpatial.Analysis.dll
+E:\PSD 9\SISKU\SISKU\bin\Debug\DotSpatial.Compatibility.dll
+E:\PSD 9\SISKU\SISKU\bin\Debug\DotSpatial.Controls.dll
+E:\PSD 9\SISKU\SISKU\bin\Debug\DotSpatial.Data.dll
+E:\PSD 9\SISKU\SISKU\bin\Debug\DotSpatial.Data.Forms.dll
+E:\PSD 9\SISKU\SISKU\bin\Debug\DotSpatial.Extensions.dll
+E:\PSD 9\SISKU\SISKU\bin\Debug\DotSpatial.GeoAPI.dll
+E:\PSD 9\SISKU\SISKU\bin\Debug\DotSpatial.Modeling.Forms.dll
+E:\PSD 9\SISKU\SISKU\bin\Debug\DotSpatial.NetTopologySuite.dll
+E:\PSD 9\SISKU\SISKU\bin\Debug\DotSpatial.NTSExtension.dll
+E:\PSD 9\SISKU\SISKU\bin\Debug\DotSpatial.Positioning.Design.dll
+E:\PSD 9\SISKU\SISKU\bin\Debug\DotSpatial.Positioning.dll
+E:\PSD 9\SISKU\SISKU\bin\Debug\DotSpatial.Positioning.Forms.dll
+E:\PSD 9\SISKU\SISKU\bin\Debug\DotSpatial.Projections.dll
+E:\PSD 9\SISKU\SISKU\bin\Debug\DotSpatial.Projections.Forms.dll
+E:\PSD 9\SISKU\SISKU\bin\Debug\DotSpatial.Serialization.dll
+E:\PSD 9\SISKU\SISKU\bin\Debug\DotSpatial.Symbology.dll
+E:\PSD 9\SISKU\SISKU\bin\Debug\DotSpatial.Symbology.Forms.dll
+E:\PSD 9\SISKU\SISKU\bin\Debug\DotSpatial.Analysis.pdb
+E:\PSD 9\SISKU\SISKU\bin\Debug\DotSpatial.Analysis.xml
+E:\PSD 9\SISKU\SISKU\bin\Debug\DotSpatial.Analysis.dll.config
+E:\PSD 9\SISKU\SISKU\bin\Debug\DotSpatial.Compatibility.pdb
+E:\PSD 9\SISKU\SISKU\bin\Debug\DotSpatial.Compatibility.xml
+E:\PSD 9\SISKU\SISKU\bin\Debug\DotSpatial.Compatibility.dll.config
+E:\PSD 9\SISKU\SISKU\bin\Debug\DotSpatial.Controls.pdb
+E:\PSD 9\SISKU\SISKU\bin\Debug\DotSpatial.Controls.xml
+E:\PSD 9\SISKU\SISKU\bin\Debug\DotSpatial.Controls.dll.config
+E:\PSD 9\SISKU\SISKU\bin\Debug\DotSpatial.Data.pdb
+E:\PSD 9\SISKU\SISKU\bin\Debug\DotSpatial.Data.xml
+E:\PSD 9\SISKU\SISKU\bin\Debug\DotSpatial.Data.dll.config
+E:\PSD 9\SISKU\SISKU\bin\Debug\DotSpatial.Data.Forms.pdb
+E:\PSD 9\SISKU\SISKU\bin\Debug\DotSpatial.Data.Forms.xml
+E:\PSD 9\SISKU\SISKU\bin\Debug\DotSpatial.Extensions.pdb
+E:\PSD 9\SISKU\SISKU\bin\Debug\DotSpatial.Extensions.xml
+E:\PSD 9\SISKU\SISKU\bin\Debug\DotSpatial.GeoAPI.xml
+E:\PSD 9\SISKU\SISKU\bin\Debug\DotSpatial.Modeling.Forms.pdb
+E:\PSD 9\SISKU\SISKU\bin\Debug\DotSpatial.Modeling.Forms.xml
+E:\PSD 9\SISKU\SISKU\bin\Debug\DotSpatial.Modeling.Forms.dll.config
+E:\PSD 9\SISKU\SISKU\bin\Debug\DotSpatial.NetTopologySuite.xml
+E:\PSD 9\SISKU\SISKU\bin\Debug\DotSpatial.NTSExtension.pdb
+E:\PSD 9\SISKU\SISKU\bin\Debug\DotSpatial.NTSExtension.xml
+E:\PSD 9\SISKU\SISKU\bin\Debug\DotSpatial.Positioning.pdb
+E:\PSD 9\SISKU\SISKU\bin\Debug\DotSpatial.Positioning.Design.pdb
+E:\PSD 9\SISKU\SISKU\bin\Debug\DotSpatial.Positioning.Design.xml
+E:\PSD 9\SISKU\SISKU\bin\Debug\DotSpatial.Positioning.Forms.pdb
+E:\PSD 9\SISKU\SISKU\bin\Debug\DotSpatial.Projections.pdb
+E:\PSD 9\SISKU\SISKU\bin\Debug\DotSpatial.Projections.Forms.pdb
+E:\PSD 9\SISKU\SISKU\bin\Debug\DotSpatial.Projections.Forms.xml
+E:\PSD 9\SISKU\SISKU\bin\Debug\DotSpatial.Serialization.pdb
+E:\PSD 9\SISKU\SISKU\bin\Debug\DotSpatial.Serialization.xml
+E:\PSD 9\SISKU\SISKU\bin\Debug\DotSpatial.Serialization.dll.config
+E:\PSD 9\SISKU\SISKU\bin\Debug\DotSpatial.Symbology.pdb
+E:\PSD 9\SISKU\SISKU\bin\Debug\DotSpatial.Symbology.xml
+E:\PSD 9\SISKU\SISKU\bin\Debug\DotSpatial.Symbology.Forms.pdb
+E:\PSD 9\SISKU\SISKU\bin\Debug\DotSpatial.Symbology.Forms.xml
+E:\PSD 9\SISKU\SISKU\bin\Debug\DotSpatial.Symbology.Forms.dll.config
+E:\PSD 9\SISKU\SISKU\bin\Debug\de-DE\DotSpatial.Controls.resources.dll
+E:\PSD 9\SISKU\SISKU\bin\Debug\it-IT\DotSpatial.Controls.resources.dll
+E:\PSD 9\SISKU\SISKU\bin\Debug\pt-BR\DotSpatial.Controls.resources.dll
+E:\PSD 9\SISKU\SISKU\bin\Debug\zh-CN\DotSpatial.Controls.resources.dll
+E:\PSD 9\SISKU\SISKU\bin\Debug\zh-CN\DotSpatial.Data.Forms.resources.dll
+E:\PSD 9\SISKU\SISKU\bin\Debug\zh-CN\DotSpatial.Modeling.Forms.resources.dll
+E:\PSD 9\SISKU\SISKU\bin\Debug\zh-MO\DotSpatial.Modeling.Forms.resources.dll
+E:\PSD 9\SISKU\SISKU\bin\Debug\cs\DotSpatial.Projections.Forms.resources.dll
+E:\PSD 9\SISKU\SISKU\bin\Debug\de\DotSpatial.Projections.Forms.resources.dll
+E:\PSD 9\SISKU\SISKU\bin\Debug\de-DE\DotSpatial.Projections.Forms.resources.dll
+E:\PSD 9\SISKU\SISKU\bin\Debug\el\DotSpatial.Projections.Forms.resources.dll
+E:\PSD 9\SISKU\SISKU\bin\Debug\it-IT\DotSpatial.Projections.Forms.resources.dll
+E:\PSD 9\SISKU\SISKU\bin\Debug\ja-JP\DotSpatial.Projections.Forms.resources.dll
+E:\PSD 9\SISKU\SISKU\bin\Debug\lt\DotSpatial.Projections.Forms.resources.dll
+E:\PSD 9\SISKU\SISKU\bin\Debug\nl\DotSpatial.Projections.Forms.resources.dll
+E:\PSD 9\SISKU\SISKU\bin\Debug\pt\DotSpatial.Projections.Forms.resources.dll
+E:\PSD 9\SISKU\SISKU\bin\Debug\pt-BR\DotSpatial.Projections.Forms.resources.dll
+E:\PSD 9\SISKU\SISKU\bin\Debug\ro\DotSpatial.Projections.Forms.resources.dll
+E:\PSD 9\SISKU\SISKU\bin\Debug\th\DotSpatial.Projections.Forms.resources.dll
+E:\PSD 9\SISKU\SISKU\bin\Debug\vi-VN\DotSpatial.Projections.Forms.resources.dll
+E:\PSD 9\SISKU\SISKU\bin\Debug\zh-CN\DotSpatial.Projections.Forms.resources.dll
+E:\PSD 9\SISKU\SISKU\bin\Debug\de-DE\DotSpatial.Symbology.resources.dll
+E:\PSD 9\SISKU\SISKU\bin\Debug\cs\DotSpatial.Symbology.Forms.resources.dll
+E:\PSD 9\SISKU\SISKU\bin\Debug\de-DE\DotSpatial.Symbology.Forms.resources.dll
+E:\PSD 9\SISKU\SISKU\bin\Debug\en-US\DotSpatial.Symbology.Forms.resources.dll
+E:\PSD 9\SISKU\SISKU\bin\Debug\it\DotSpatial.Symbology.Forms.resources.dll
+E:\PSD 9\SISKU\SISKU\bin\Debug\it-IT\DotSpatial.Symbology.Forms.resources.dll
+E:\PSD 9\SISKU\SISKU\bin\Debug\pt-BR\DotSpatial.Symbology.Forms.resources.dll
+E:\PSD 9\SISKU\SISKU\bin\Debug\zh-CN\DotSpatial.Symbology.Forms.resources.dll
+C:\Users\asus\Desktop\BACK UP PSD\PSD 9_BACK UP DEKSTOP 1\SISKU\SISKU\obj\Debug\SISKU.vbproj.AssemblyReference.cache
+C:\Users\asus\Desktop\BACK UP PSD\PSD 9_BACK UP DEKSTOP 1\SISKU\SISKU\obj\Debug\SISKU.formAddPoint.resources
+C:\Users\asus\Desktop\BACK UP PSD\PSD 9_BACK UP DEKSTOP 1\SISKU\SISKU\obj\Debug\SISKU.formMainWindow.resources
+C:\Users\asus\Desktop\BACK UP PSD\PSD 9_BACK UP DEKSTOP 1\SISKU\SISKU\obj\Debug\SISKU.formPopUp.resources
+C:\Users\asus\Desktop\BACK UP PSD\PSD 9_BACK UP DEKSTOP 1\SISKU\SISKU\obj\Debug\SISKU.Resources.resources
+C:\Users\asus\Desktop\BACK UP PSD\PSD 9_BACK UP DEKSTOP 1\SISKU\SISKU\obj\Debug\SISKU.vbproj.GenerateResource.cache
+C:\Users\asus\Desktop\BACK UP PSD\PSD 9_BACK UP DEKSTOP 1\SISKU\SISKU\obj\Debug\SISKU.vbproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\BACK UP PSD\PSD 9_BACK UP DEKSTOP 1\SISKU\SISKU\obj\Debug\SISKU.exe
+C:\Users\asus\Desktop\BACK UP PSD\PSD 9_BACK UP DEKSTOP 1\SISKU\SISKU\obj\Debug\SISKU.xml
+C:\Users\asus\Desktop\BACK UP PSD\PSD 9_BACK UP DEKSTOP 1\SISKU\SISKU\obj\Debug\SISKU.pdb
+C:\Users\asus\Desktop\BACK UP PSD\PSD 9_BACK UP DEKSTOP 1\SISKU\SISKU\bin\Debug\resources\Database\Non-spasial\Icon\lainnya.png
+C:\Users\asus\Desktop\BACK UP PSD\PSD 9_BACK UP DEKSTOP 1\SISKU\SISKU\bin\Debug\resources\Database\Non-spasial\Icon\rumah sakit.png
+C:\Users\asus\Desktop\BACK UP PSD\PSD 9_BACK UP DEKSTOP 1\SISKU\SISKU\bin\Debug\resources\Database\Non-spasial\Icon\sekolah.png
+C:\Users\asus\Desktop\BACK UP PSD\PSD 9_BACK UP DEKSTOP 1\SISKU\SISKU\bin\Debug\resources\Database\Spasial\fasum.cpg
+C:\Users\asus\Desktop\BACK UP PSD\PSD 9_BACK UP DEKSTOP 1\SISKU\SISKU\bin\Debug\resources\Database\Spasial\fasum.dbf
+C:\Users\asus\Desktop\BACK UP PSD\PSD 9_BACK UP DEKSTOP 1\SISKU\SISKU\bin\Debug\resources\Database\Spasial\fasum.prj
+C:\Users\asus\Desktop\BACK UP PSD\PSD 9_BACK UP DEKSTOP 1\SISKU\SISKU\bin\Debug\resources\Database\Spasial\fasum.sbn
+C:\Users\asus\Desktop\BACK UP PSD\PSD 9_BACK UP DEKSTOP 1\SISKU\SISKU\bin\Debug\resources\Database\Spasial\fasum.sbx
+C:\Users\asus\Desktop\BACK UP PSD\PSD 9_BACK UP DEKSTOP 1\SISKU\SISKU\bin\Debug\resources\Database\Spasial\fasum.shp
+C:\Users\asus\Desktop\BACK UP PSD\PSD 9_BACK UP DEKSTOP 1\SISKU\SISKU\bin\Debug\resources\Database\Spasial\fasum.shx
+C:\Users\asus\Desktop\BACK UP PSD\PSD 9_BACK UP DEKSTOP 1\SISKU\SISKU\bin\Debug\resources\Database\Spasial\Jalan_Kec_Umbulharjo.cpg
+C:\Users\asus\Desktop\BACK UP PSD\PSD 9_BACK UP DEKSTOP 1\SISKU\SISKU\bin\Debug\resources\Database\Spasial\Jalan_Kec_Umbulharjo.dbf
+C:\Users\asus\Desktop\BACK UP PSD\PSD 9_BACK UP DEKSTOP 1\SISKU\SISKU\bin\Debug\resources\Database\Spasial\Jalan_Kec_Umbulharjo.prj
+C:\Users\asus\Desktop\BACK UP PSD\PSD 9_BACK UP DEKSTOP 1\SISKU\SISKU\bin\Debug\resources\Database\Spasial\Jalan_Kec_Umbulharjo.sbn
+C:\Users\asus\Desktop\BACK UP PSD\PSD 9_BACK UP DEKSTOP 1\SISKU\SISKU\bin\Debug\resources\Database\Spasial\Jalan_Kec_Umbulharjo.sbx
+C:\Users\asus\Desktop\BACK UP PSD\PSD 9_BACK UP DEKSTOP 1\SISKU\SISKU\bin\Debug\resources\Database\Spasial\Jalan_Kec_Umbulharjo.shp
+C:\Users\asus\Desktop\BACK UP PSD\PSD 9_BACK UP DEKSTOP 1\SISKU\SISKU\bin\Debug\resources\Database\Spasial\Jalan_Kec_Umbulharjo.shx
+C:\Users\asus\Desktop\BACK UP PSD\PSD 9_BACK UP DEKSTOP 1\SISKU\SISKU\bin\Debug\resources\Database\Spasial\fasum.shp.xml
+C:\Users\asus\Desktop\BACK UP PSD\PSD 9_BACK UP DEKSTOP 1\SISKU\SISKU\bin\Debug\resources\Database\Spasial\Jalan_Kec_Umbulharjo.shp.xml
+C:\Users\asus\Desktop\BACK UP PSD\PSD 9_BACK UP DEKSTOP 1\SISKU\SISKU\bin\Debug\SISKU.exe.config
+C:\Users\asus\Desktop\BACK UP PSD\PSD 9_BACK UP DEKSTOP 1\SISKU\SISKU\bin\Debug\SISKU.exe
+C:\Users\asus\Desktop\BACK UP PSD\PSD 9_BACK UP DEKSTOP 1\SISKU\SISKU\bin\Debug\SISKU.pdb
+C:\Users\asus\Desktop\BACK UP PSD\PSD 9_BACK UP DEKSTOP 1\SISKU\SISKU\bin\Debug\SISKU.xml
+C:\Users\asus\Desktop\BACK UP PSD\PSD 9_BACK UP DEKSTOP 1\SISKU\SISKU\bin\Debug\BruTile.dll
+C:\Users\asus\Desktop\BACK UP PSD\PSD 9_BACK UP DEKSTOP 1\SISKU\SISKU\bin\Debug\DotSpatial.Analysis.dll
+C:\Users\asus\Desktop\BACK UP PSD\PSD 9_BACK UP DEKSTOP 1\SISKU\SISKU\bin\Debug\DotSpatial.Controls.dll
+C:\Users\asus\Desktop\BACK UP PSD\PSD 9_BACK UP DEKSTOP 1\SISKU\SISKU\bin\Debug\DotSpatial.Data.dll
+C:\Users\asus\Desktop\BACK UP PSD\PSD 9_BACK UP DEKSTOP 1\SISKU\SISKU\bin\Debug\DotSpatial.Data.Forms.dll
+C:\Users\asus\Desktop\BACK UP PSD\PSD 9_BACK UP DEKSTOP 1\SISKU\SISKU\bin\Debug\DotSpatial.Extensions.dll
+C:\Users\asus\Desktop\BACK UP PSD\PSD 9_BACK UP DEKSTOP 1\SISKU\SISKU\bin\Debug\DotSpatial.Modeling.Forms.dll
+C:\Users\asus\Desktop\BACK UP PSD\PSD 9_BACK UP DEKSTOP 1\SISKU\SISKU\bin\Debug\DotSpatial.Projections.dll
+C:\Users\asus\Desktop\BACK UP PSD\PSD 9_BACK UP DEKSTOP 1\SISKU\SISKU\bin\Debug\DotSpatial.Projections.Forms.dll
+C:\Users\asus\Desktop\BACK UP PSD\PSD 9_BACK UP DEKSTOP 1\SISKU\SISKU\bin\Debug\DotSpatial.Serialization.dll
+C:\Users\asus\Desktop\BACK UP PSD\PSD 9_BACK UP DEKSTOP 1\SISKU\SISKU\bin\Debug\DotSpatial.Symbology.dll
+C:\Users\asus\Desktop\BACK UP PSD\PSD 9_BACK UP DEKSTOP 1\SISKU\SISKU\bin\Debug\DotSpatial.Symbology.Forms.dll
+C:\Users\asus\Desktop\BACK UP PSD\PSD 9_BACK UP DEKSTOP 1\SISKU\SISKU\bin\Debug\Krypton.Ribbon.dll
+C:\Users\asus\Desktop\BACK UP PSD\PSD 9_BACK UP DEKSTOP 1\SISKU\SISKU\bin\Debug\Krypton.Toolkit.dll
+C:\Users\asus\Desktop\BACK UP PSD\PSD 9_BACK UP DEKSTOP 1\SISKU\SISKU\bin\Debug\DotSpatial.Analysis.xml
+C:\Users\asus\Desktop\BACK UP PSD\PSD 9_BACK UP DEKSTOP 1\SISKU\SISKU\bin\Debug\DotSpatial.Controls.xml
+C:\Users\asus\Desktop\BACK UP PSD\PSD 9_BACK UP DEKSTOP 1\SISKU\SISKU\bin\Debug\DotSpatial.Data.xml
+C:\Users\asus\Desktop\BACK UP PSD\PSD 9_BACK UP DEKSTOP 1\SISKU\SISKU\bin\Debug\DotSpatial.Data.Forms.xml
+C:\Users\asus\Desktop\BACK UP PSD\PSD 9_BACK UP DEKSTOP 1\SISKU\SISKU\bin\Debug\DotSpatial.Extensions.xml
+C:\Users\asus\Desktop\BACK UP PSD\PSD 9_BACK UP DEKSTOP 1\SISKU\SISKU\bin\Debug\DotSpatial.Modeling.Forms.xml
+C:\Users\asus\Desktop\BACK UP PSD\PSD 9_BACK UP DEKSTOP 1\SISKU\SISKU\bin\Debug\DotSpatial.Projections.Forms.xml
+C:\Users\asus\Desktop\BACK UP PSD\PSD 9_BACK UP DEKSTOP 1\SISKU\SISKU\bin\Debug\DotSpatial.Serialization.xml
+C:\Users\asus\Desktop\BACK UP PSD\PSD 9_BACK UP DEKSTOP 1\SISKU\SISKU\bin\Debug\DotSpatial.Symbology.xml
+C:\Users\asus\Desktop\BACK UP PSD\PSD 9_BACK UP DEKSTOP 1\SISKU\SISKU\bin\Debug\DotSpatial.Symbology.Forms.xml
+C:\Users\asus\Desktop\BACK UP PSD\PSD 9_BACK UP DEKSTOP 1\SISKU\SISKU\bin\Debug\Krypton.Ribbon.xml
+C:\Users\asus\Desktop\BACK UP PSD\PSD 9_BACK UP DEKSTOP 1\SISKU\SISKU\bin\Debug\Krypton.Toolkit.xml
+C:\Users\asus\Desktop\BACK UP PSD\PSD 9_BACK UP DEKSTOP 1\SISKU\SISKU\bin\Debug\de-DE\DotSpatial.Controls.resources.dll
+C:\Users\asus\Desktop\BACK UP PSD\PSD 9_BACK UP DEKSTOP 1\SISKU\SISKU\bin\Debug\it-IT\DotSpatial.Controls.resources.dll
+C:\Users\asus\Desktop\BACK UP PSD\PSD 9_BACK UP DEKSTOP 1\SISKU\SISKU\bin\Debug\pt-BR\DotSpatial.Controls.resources.dll
+C:\Users\asus\Desktop\BACK UP PSD\PSD 9_BACK UP DEKSTOP 1\SISKU\SISKU\bin\Debug\zh-CN\DotSpatial.Controls.resources.dll
+C:\Users\asus\Desktop\BACK UP PSD\PSD 9_BACK UP DEKSTOP 1\SISKU\SISKU\bin\Debug\zh-CN\DotSpatial.Data.Forms.resources.dll
+C:\Users\asus\Desktop\BACK UP PSD\PSD 9_BACK UP DEKSTOP 1\SISKU\SISKU\bin\Debug\zh-CN\DotSpatial.Modeling.Forms.resources.dll
+C:\Users\asus\Desktop\BACK UP PSD\PSD 9_BACK UP DEKSTOP 1\SISKU\SISKU\bin\Debug\zh-MO\DotSpatial.Modeling.Forms.resources.dll
+C:\Users\asus\Desktop\BACK UP PSD\PSD 9_BACK UP DEKSTOP 1\SISKU\SISKU\bin\Debug\cs\DotSpatial.Projections.Forms.resources.dll
+C:\Users\asus\Desktop\BACK UP PSD\PSD 9_BACK UP DEKSTOP 1\SISKU\SISKU\bin\Debug\de\DotSpatial.Projections.Forms.resources.dll
+C:\Users\asus\Desktop\BACK UP PSD\PSD 9_BACK UP DEKSTOP 1\SISKU\SISKU\bin\Debug\de-DE\DotSpatial.Projections.Forms.resources.dll
+C:\Users\asus\Desktop\BACK UP PSD\PSD 9_BACK UP DEKSTOP 1\SISKU\SISKU\bin\Debug\el\DotSpatial.Projections.Forms.resources.dll
+C:\Users\asus\Desktop\BACK UP PSD\PSD 9_BACK UP DEKSTOP 1\SISKU\SISKU\bin\Debug\it-IT\DotSpatial.Projections.Forms.resources.dll
+C:\Users\asus\Desktop\BACK UP PSD\PSD 9_BACK UP DEKSTOP 1\SISKU\SISKU\bin\Debug\ja-JP\DotSpatial.Projections.Forms.resources.dll
+C:\Users\asus\Desktop\BACK UP PSD\PSD 9_BACK UP DEKSTOP 1\SISKU\SISKU\bin\Debug\lt\DotSpatial.Projections.Forms.resources.dll
+C:\Users\asus\Desktop\BACK UP PSD\PSD 9_BACK UP DEKSTOP 1\SISKU\SISKU\bin\Debug\nl\DotSpatial.Projections.Forms.resources.dll
+C:\Users\asus\Desktop\BACK UP PSD\PSD 9_BACK UP DEKSTOP 1\SISKU\SISKU\bin\Debug\pt\DotSpatial.Projections.Forms.resources.dll
+C:\Users\asus\Desktop\BACK UP PSD\PSD 9_BACK UP DEKSTOP 1\SISKU\SISKU\bin\Debug\pt-BR\DotSpatial.Projections.Forms.resources.dll
+C:\Users\asus\Desktop\BACK UP PSD\PSD 9_BACK UP DEKSTOP 1\SISKU\SISKU\bin\Debug\ro\DotSpatial.Projections.Forms.resources.dll
+C:\Users\asus\Desktop\BACK UP PSD\PSD 9_BACK UP DEKSTOP 1\SISKU\SISKU\bin\Debug\th\DotSpatial.Projections.Forms.resources.dll
+C:\Users\asus\Desktop\BACK UP PSD\PSD 9_BACK UP DEKSTOP 1\SISKU\SISKU\bin\Debug\vi-VN\DotSpatial.Projections.Forms.resources.dll
+C:\Users\asus\Desktop\BACK UP PSD\PSD 9_BACK UP DEKSTOP 1\SISKU\SISKU\bin\Debug\zh-CN\DotSpatial.Projections.Forms.resources.dll
+C:\Users\asus\Desktop\BACK UP PSD\PSD 9_BACK UP DEKSTOP 1\SISKU\SISKU\bin\Debug\de-DE\DotSpatial.Symbology.resources.dll
+C:\Users\asus\Desktop\BACK UP PSD\PSD 9_BACK UP DEKSTOP 1\SISKU\SISKU\bin\Debug\cs\DotSpatial.Symbology.Forms.resources.dll
+C:\Users\asus\Desktop\BACK UP PSD\PSD 9_BACK UP DEKSTOP 1\SISKU\SISKU\bin\Debug\de-DE\DotSpatial.Symbology.Forms.resources.dll
+C:\Users\asus\Desktop\BACK UP PSD\PSD 9_BACK UP DEKSTOP 1\SISKU\SISKU\bin\Debug\en-US\DotSpatial.Symbology.Forms.resources.dll
+C:\Users\asus\Desktop\BACK UP PSD\PSD 9_BACK UP DEKSTOP 1\SISKU\SISKU\bin\Debug\it\DotSpatial.Symbology.Forms.resources.dll
+C:\Users\asus\Desktop\BACK UP PSD\PSD 9_BACK UP DEKSTOP 1\SISKU\SISKU\bin\Debug\it-IT\DotSpatial.Symbology.Forms.resources.dll
+C:\Users\asus\Desktop\BACK UP PSD\PSD 9_BACK UP DEKSTOP 1\SISKU\SISKU\bin\Debug\pt-BR\DotSpatial.Symbology.Forms.resources.dll
+C:\Users\asus\Desktop\BACK UP PSD\PSD 9_BACK UP DEKSTOP 1\SISKU\SISKU\bin\Debug\zh-CN\DotSpatial.Symbology.Forms.resources.dll
+C:\Users\asus\Desktop\BACK UP PSD\PSD 9_BACK UP DEKSTOP 1\SISKU\SISKU\bin\Debug\resources\Database\Spasial\intersect.shp.xml
+C:\Users\asus\Desktop\BACK UP PSD\PSD 9_BACK UP DEKSTOP 1\SISKU\SISKU\bin\Debug\resources\Database\Spasial\intersect.cpg
+C:\Users\asus\Desktop\BACK UP PSD\PSD 9_BACK UP DEKSTOP 1\SISKU\SISKU\bin\Debug\resources\Database\Spasial\intersect.dbf
+C:\Users\asus\Desktop\BACK UP PSD\PSD 9_BACK UP DEKSTOP 1\SISKU\SISKU\bin\Debug\resources\Database\Spasial\intersect.prj
+C:\Users\asus\Desktop\BACK UP PSD\PSD 9_BACK UP DEKSTOP 1\SISKU\SISKU\bin\Debug\resources\Database\Spasial\intersect.sbn
+C:\Users\asus\Desktop\BACK UP PSD\PSD 9_BACK UP DEKSTOP 1\SISKU\SISKU\bin\Debug\resources\Database\Spasial\intersect.sbx
+C:\Users\asus\Desktop\BACK UP PSD\PSD 9_BACK UP DEKSTOP 1\SISKU\SISKU\bin\Debug\resources\Database\Spasial\intersect.shp
+C:\Users\asus\Desktop\BACK UP PSD\PSD 9_BACK UP DEKSTOP 1\SISKU\SISKU\bin\Debug\resources\Database\Spasial\intersect.shx
+C:\Users\asus\Desktop\BACK UP PSD\PSD 9_BACK UP DEKSTOP 1\SISKU\SISKU\bin\Debug\resources\Database\Spasial\Batas_Desa_Kec_Umbulharjo.shp.xml
+C:\Users\asus\Desktop\BACK UP PSD\PSD 9_BACK UP DEKSTOP 1\SISKU\SISKU\bin\Debug\resources\Database\Spasial\Batas_Desa_Kec_Umbulharjo.cpg
+C:\Users\asus\Desktop\BACK UP PSD\PSD 9_BACK UP DEKSTOP 1\SISKU\SISKU\bin\Debug\resources\Database\Spasial\Batas_Desa_Kec_Umbulharjo.dbf
+C:\Users\asus\Desktop\BACK UP PSD\PSD 9_BACK UP DEKSTOP 1\SISKU\SISKU\bin\Debug\resources\Database\Spasial\Batas_Desa_Kec_Umbulharjo.prj
+C:\Users\asus\Desktop\BACK UP PSD\PSD 9_BACK UP DEKSTOP 1\SISKU\SISKU\bin\Debug\resources\Database\Spasial\Batas_Desa_Kec_Umbulharjo.sbn
+C:\Users\asus\Desktop\BACK UP PSD\PSD 9_BACK UP DEKSTOP 1\SISKU\SISKU\bin\Debug\resources\Database\Spasial\Batas_Desa_Kec_Umbulharjo.sbx
+C:\Users\asus\Desktop\BACK UP PSD\PSD 9_BACK UP DEKSTOP 1\SISKU\SISKU\bin\Debug\resources\Database\Spasial\Batas_Desa_Kec_Umbulharjo.shp
+C:\Users\asus\Desktop\BACK UP PSD\PSD 9_BACK UP DEKSTOP 1\SISKU\SISKU\bin\Debug\resources\Database\Spasial\Batas_Desa_Kec_Umbulharjo.shx
+C:\Users\asus\Desktop\BACK UP PSD\PSD 9_BACK UP DEKSTOP 1\SISKU\SISKU\bin\Debug\DotSpatial.Topology.dll
+C:\Users\asus\Desktop\BACK UP PSD\PSD 9_BACK UP DEKSTOP 1\SISKU\SISKU\bin\Debug\DotSpatial.Topology.xml
+C:\Users\asus\Desktop\BACK UP PSD\PSD 9_BACK UP DEKSTOP 1\SISKU\SISKU\bin\Debug\DotSpatial.Mono.dll
+C:\Users\asus\Desktop\BACK UP PSD\PSD 9_BACK UP DEKSTOP 1\SISKU\SISKU\bin\Debug\DotSpatial.Mono.xml
+C:\Users\asus\Desktop\BACK UP PSD\PSD 9_BACK UP DEKSTOP 1\SISKU\SISKU\bin\Debug\DotSpatial.Projections.xml
+C:\Users\asus\Desktop\BACK UP PSD\PSD 9_BACK UP DEKSTOP 1\SISKU\SISKU\bin\Debug\resources\Database\Non-spasial\Icon\gereja.png
+C:\Users\asus\Desktop\BACK UP PSD\PSD 9_BACK UP DEKSTOP 1\SISKU\SISKU\bin\Debug\resources\Database\Non-spasial\Icon\kantor pemerintahan.png
+C:\Users\asus\Desktop\BACK UP PSD\PSD 9_BACK UP DEKSTOP 1\SISKU\SISKU\bin\Debug\resources\Database\Non-spasial\Icon\masjid.png
+C:\Users\asus\Desktop\BACK UP PSD\PSD 9_BACK UP DEKSTOP 1\SISKU\SISKU\bin\Debug\resources\Database\Non-spasial\Icon\pasar.png
+C:\Users\asus\Desktop\BACK UP PSD\PSD 9_BACK UP DEKSTOP 1\SISKU\SISKU\bin\Debug\resources\Database\Non-spasial\Foto\gereja.jpg
+C:\Users\asus\Desktop\BACK UP PSD\PSD 9_BACK UP DEKSTOP 1\SISKU\SISKU\bin\Debug\resources\Database\Non-spasial\Foto\rumah sakit.jpg
+C:\Users\asus\Desktop\BACK UP PSD\PSD 9_BACK UP DEKSTOP 1\SISKU\SISKU\bin\Debug\resources\Database\Non-spasial\Foto\sekolah.jpg
+C:\Users\asus\Desktop\BACK UP PSD\Responsi\SISKU\SISKU\bin\Debug\resources\Database\Non-spasial\Foto\gereja.jpg
+C:\Users\asus\Desktop\BACK UP PSD\Responsi\SISKU\SISKU\bin\Debug\resources\Database\Non-spasial\Foto\rumah sakit.jpg
+C:\Users\asus\Desktop\BACK UP PSD\Responsi\SISKU\SISKU\bin\Debug\resources\Database\Non-spasial\Foto\sekolah.jpg
+C:\Users\asus\Desktop\BACK UP PSD\Responsi\SISKU\SISKU\bin\Debug\resources\Database\Non-spasial\Icon\gereja.png
+C:\Users\asus\Desktop\BACK UP PSD\Responsi\SISKU\SISKU\bin\Debug\resources\Database\Non-spasial\Icon\kantor pemerintahan.png
+C:\Users\asus\Desktop\BACK UP PSD\Responsi\SISKU\SISKU\bin\Debug\resources\Database\Non-spasial\Icon\lainnya.png
+C:\Users\asus\Desktop\BACK UP PSD\Responsi\SISKU\SISKU\bin\Debug\resources\Database\Non-spasial\Icon\masjid.png
+C:\Users\asus\Desktop\BACK UP PSD\Responsi\SISKU\SISKU\bin\Debug\resources\Database\Non-spasial\Icon\pasar.png
+C:\Users\asus\Desktop\BACK UP PSD\Responsi\SISKU\SISKU\bin\Debug\resources\Database\Non-spasial\Icon\rumah sakit.png
+C:\Users\asus\Desktop\BACK UP PSD\Responsi\SISKU\SISKU\bin\Debug\resources\Database\Non-spasial\Icon\sekolah.png
+C:\Users\asus\Desktop\BACK UP PSD\Responsi\SISKU\SISKU\bin\Debug\resources\Database\Spasial\Batas_Desa_Kec_Umbulharjo.shp.xml
+C:\Users\asus\Desktop\BACK UP PSD\Responsi\SISKU\SISKU\bin\Debug\resources\Database\Spasial\fasum.cpg
+C:\Users\asus\Desktop\BACK UP PSD\Responsi\SISKU\SISKU\bin\Debug\resources\Database\Spasial\fasum.dbf
+C:\Users\asus\Desktop\BACK UP PSD\Responsi\SISKU\SISKU\bin\Debug\resources\Database\Spasial\fasum.prj
+C:\Users\asus\Desktop\BACK UP PSD\Responsi\SISKU\SISKU\bin\Debug\resources\Database\Spasial\fasum.sbn
+C:\Users\asus\Desktop\BACK UP PSD\Responsi\SISKU\SISKU\bin\Debug\resources\Database\Spasial\fasum.sbx
+C:\Users\asus\Desktop\BACK UP PSD\Responsi\SISKU\SISKU\bin\Debug\resources\Database\Spasial\fasum.shp
+C:\Users\asus\Desktop\BACK UP PSD\Responsi\SISKU\SISKU\bin\Debug\resources\Database\Spasial\fasum.shx
+C:\Users\asus\Desktop\BACK UP PSD\Responsi\SISKU\SISKU\bin\Debug\resources\Database\Spasial\intersect.shp.xml
+C:\Users\asus\Desktop\BACK UP PSD\Responsi\SISKU\SISKU\bin\Debug\resources\Database\Spasial\Jalan_Kec_Umbulharjo.cpg
+C:\Users\asus\Desktop\BACK UP PSD\Responsi\SISKU\SISKU\bin\Debug\resources\Database\Spasial\Jalan_Kec_Umbulharjo.dbf
+C:\Users\asus\Desktop\BACK UP PSD\Responsi\SISKU\SISKU\bin\Debug\resources\Database\Spasial\Jalan_Kec_Umbulharjo.prj
+C:\Users\asus\Desktop\BACK UP PSD\Responsi\SISKU\SISKU\bin\Debug\resources\Database\Spasial\Jalan_Kec_Umbulharjo.sbn
+C:\Users\asus\Desktop\BACK UP PSD\Responsi\SISKU\SISKU\bin\Debug\resources\Database\Spasial\Jalan_Kec_Umbulharjo.sbx
+C:\Users\asus\Desktop\BACK UP PSD\Responsi\SISKU\SISKU\bin\Debug\resources\Database\Spasial\Jalan_Kec_Umbulharjo.shp
+C:\Users\asus\Desktop\BACK UP PSD\Responsi\SISKU\SISKU\bin\Debug\resources\Database\Spasial\Jalan_Kec_Umbulharjo.shx
+C:\Users\asus\Desktop\BACK UP PSD\Responsi\SISKU\SISKU\bin\Debug\resources\Database\Spasial\Batas_Desa_Kec_Umbulharjo.cpg
+C:\Users\asus\Desktop\BACK UP PSD\Responsi\SISKU\SISKU\bin\Debug\resources\Database\Spasial\Batas_Desa_Kec_Umbulharjo.dbf
+C:\Users\asus\Desktop\BACK UP PSD\Responsi\SISKU\SISKU\bin\Debug\resources\Database\Spasial\Batas_Desa_Kec_Umbulharjo.prj
+C:\Users\asus\Desktop\BACK UP PSD\Responsi\SISKU\SISKU\bin\Debug\resources\Database\Spasial\Batas_Desa_Kec_Umbulharjo.sbn
+C:\Users\asus\Desktop\BACK UP PSD\Responsi\SISKU\SISKU\bin\Debug\resources\Database\Spasial\Batas_Desa_Kec_Umbulharjo.sbx
+C:\Users\asus\Desktop\BACK UP PSD\Responsi\SISKU\SISKU\bin\Debug\resources\Database\Spasial\Batas_Desa_Kec_Umbulharjo.shp
+C:\Users\asus\Desktop\BACK UP PSD\Responsi\SISKU\SISKU\bin\Debug\resources\Database\Spasial\Batas_Desa_Kec_Umbulharjo.shx
+C:\Users\asus\Desktop\BACK UP PSD\Responsi\SISKU\SISKU\bin\Debug\resources\Database\Spasial\intersect.cpg
+C:\Users\asus\Desktop\BACK UP PSD\Responsi\SISKU\SISKU\bin\Debug\resources\Database\Spasial\intersect.dbf
+C:\Users\asus\Desktop\BACK UP PSD\Responsi\SISKU\SISKU\bin\Debug\resources\Database\Spasial\intersect.prj
+C:\Users\asus\Desktop\BACK UP PSD\Responsi\SISKU\SISKU\bin\Debug\resources\Database\Spasial\intersect.sbn
+C:\Users\asus\Desktop\BACK UP PSD\Responsi\SISKU\SISKU\bin\Debug\resources\Database\Spasial\intersect.sbx
+C:\Users\asus\Desktop\BACK UP PSD\Responsi\SISKU\SISKU\bin\Debug\resources\Database\Spasial\intersect.shp
+C:\Users\asus\Desktop\BACK UP PSD\Responsi\SISKU\SISKU\bin\Debug\resources\Database\Spasial\intersect.shx
+C:\Users\asus\Desktop\BACK UP PSD\Responsi\SISKU\SISKU\bin\Debug\resources\Database\Spasial\fasum.shp.xml
+C:\Users\asus\Desktop\BACK UP PSD\Responsi\SISKU\SISKU\bin\Debug\resources\Database\Spasial\Jalan_Kec_Umbulharjo.shp.xml
+C:\Users\asus\Desktop\BACK UP PSD\Responsi\SISKU\SISKU\bin\Debug\SISKU.exe.config
+C:\Users\asus\Desktop\BACK UP PSD\Responsi\SISKU\SISKU\bin\Debug\SISKU.exe
+C:\Users\asus\Desktop\BACK UP PSD\Responsi\SISKU\SISKU\bin\Debug\SISKU.pdb
+C:\Users\asus\Desktop\BACK UP PSD\Responsi\SISKU\SISKU\bin\Debug\SISKU.xml
+C:\Users\asus\Desktop\BACK UP PSD\Responsi\SISKU\SISKU\bin\Debug\DotSpatial.Analysis.dll
+C:\Users\asus\Desktop\BACK UP PSD\Responsi\SISKU\SISKU\bin\Debug\DotSpatial.Controls.dll
+C:\Users\asus\Desktop\BACK UP PSD\Responsi\SISKU\SISKU\bin\Debug\DotSpatial.Data.dll
+C:\Users\asus\Desktop\BACK UP PSD\Responsi\SISKU\SISKU\bin\Debug\DotSpatial.Data.Forms.dll
+C:\Users\asus\Desktop\BACK UP PSD\Responsi\SISKU\SISKU\bin\Debug\DotSpatial.Extensions.dll
+C:\Users\asus\Desktop\BACK UP PSD\Responsi\SISKU\SISKU\bin\Debug\DotSpatial.Modeling.Forms.dll
+C:\Users\asus\Desktop\BACK UP PSD\Responsi\SISKU\SISKU\bin\Debug\DotSpatial.Mono.dll
+C:\Users\asus\Desktop\BACK UP PSD\Responsi\SISKU\SISKU\bin\Debug\DotSpatial.Projections.dll
+C:\Users\asus\Desktop\BACK UP PSD\Responsi\SISKU\SISKU\bin\Debug\DotSpatial.Projections.Forms.dll
+C:\Users\asus\Desktop\BACK UP PSD\Responsi\SISKU\SISKU\bin\Debug\DotSpatial.Serialization.dll
+C:\Users\asus\Desktop\BACK UP PSD\Responsi\SISKU\SISKU\bin\Debug\DotSpatial.Symbology.dll
+C:\Users\asus\Desktop\BACK UP PSD\Responsi\SISKU\SISKU\bin\Debug\DotSpatial.Symbology.Forms.dll
+C:\Users\asus\Desktop\BACK UP PSD\Responsi\SISKU\SISKU\bin\Debug\DotSpatial.Topology.dll
+C:\Users\asus\Desktop\BACK UP PSD\Responsi\SISKU\SISKU\bin\Debug\Krypton.Ribbon.dll
+C:\Users\asus\Desktop\BACK UP PSD\Responsi\SISKU\SISKU\bin\Debug\Krypton.Toolkit.dll
+C:\Users\asus\Desktop\BACK UP PSD\Responsi\SISKU\SISKU\bin\Debug\DotSpatial.Analysis.xml
+C:\Users\asus\Desktop\BACK UP PSD\Responsi\SISKU\SISKU\bin\Debug\DotSpatial.Controls.xml
+C:\Users\asus\Desktop\BACK UP PSD\Responsi\SISKU\SISKU\bin\Debug\DotSpatial.Data.xml
+C:\Users\asus\Desktop\BACK UP PSD\Responsi\SISKU\SISKU\bin\Debug\DotSpatial.Data.Forms.xml
+C:\Users\asus\Desktop\BACK UP PSD\Responsi\SISKU\SISKU\bin\Debug\DotSpatial.Extensions.xml
+C:\Users\asus\Desktop\BACK UP PSD\Responsi\SISKU\SISKU\bin\Debug\DotSpatial.Modeling.Forms.xml
+C:\Users\asus\Desktop\BACK UP PSD\Responsi\SISKU\SISKU\bin\Debug\DotSpatial.Mono.xml
+C:\Users\asus\Desktop\BACK UP PSD\Responsi\SISKU\SISKU\bin\Debug\DotSpatial.Projections.xml
+C:\Users\asus\Desktop\BACK UP PSD\Responsi\SISKU\SISKU\bin\Debug\DotSpatial.Projections.Forms.xml
+C:\Users\asus\Desktop\BACK UP PSD\Responsi\SISKU\SISKU\bin\Debug\DotSpatial.Serialization.xml
+C:\Users\asus\Desktop\BACK UP PSD\Responsi\SISKU\SISKU\bin\Debug\DotSpatial.Symbology.xml
+C:\Users\asus\Desktop\BACK UP PSD\Responsi\SISKU\SISKU\bin\Debug\DotSpatial.Symbology.Forms.xml
+C:\Users\asus\Desktop\BACK UP PSD\Responsi\SISKU\SISKU\bin\Debug\DotSpatial.Topology.xml
+C:\Users\asus\Desktop\BACK UP PSD\Responsi\SISKU\SISKU\bin\Debug\Krypton.Ribbon.xml
+C:\Users\asus\Desktop\BACK UP PSD\Responsi\SISKU\SISKU\bin\Debug\Krypton.Toolkit.xml
+C:\Users\asus\Desktop\BACK UP PSD\Responsi\SISKU\SISKU\bin\Debug\de-DE\DotSpatial.Controls.resources.dll
+C:\Users\asus\Desktop\BACK UP PSD\Responsi\SISKU\SISKU\bin\Debug\it-IT\DotSpatial.Controls.resources.dll
+C:\Users\asus\Desktop\BACK UP PSD\Responsi\SISKU\SISKU\bin\Debug\pt-BR\DotSpatial.Controls.resources.dll
+C:\Users\asus\Desktop\BACK UP PSD\Responsi\SISKU\SISKU\bin\Debug\zh-CN\DotSpatial.Controls.resources.dll
+C:\Users\asus\Desktop\BACK UP PSD\Responsi\SISKU\SISKU\bin\Debug\zh-CN\DotSpatial.Data.Forms.resources.dll
+C:\Users\asus\Desktop\BACK UP PSD\Responsi\SISKU\SISKU\bin\Debug\zh-CN\DotSpatial.Modeling.Forms.resources.dll
+C:\Users\asus\Desktop\BACK UP PSD\Responsi\SISKU\SISKU\bin\Debug\zh-MO\DotSpatial.Modeling.Forms.resources.dll
+C:\Users\asus\Desktop\BACK UP PSD\Responsi\SISKU\SISKU\bin\Debug\cs\DotSpatial.Projections.Forms.resources.dll
+C:\Users\asus\Desktop\BACK UP PSD\Responsi\SISKU\SISKU\bin\Debug\de\DotSpatial.Projections.Forms.resources.dll
+C:\Users\asus\Desktop\BACK UP PSD\Responsi\SISKU\SISKU\bin\Debug\de-DE\DotSpatial.Projections.Forms.resources.dll
+C:\Users\asus\Desktop\BACK UP PSD\Responsi\SISKU\SISKU\bin\Debug\el\DotSpatial.Projections.Forms.resources.dll
+C:\Users\asus\Desktop\BACK UP PSD\Responsi\SISKU\SISKU\bin\Debug\it-IT\DotSpatial.Projections.Forms.resources.dll
+C:\Users\asus\Desktop\BACK UP PSD\Responsi\SISKU\SISKU\bin\Debug\ja-JP\DotSpatial.Projections.Forms.resources.dll
+C:\Users\asus\Desktop\BACK UP PSD\Responsi\SISKU\SISKU\bin\Debug\lt\DotSpatial.Projections.Forms.resources.dll
+C:\Users\asus\Desktop\BACK UP PSD\Responsi\SISKU\SISKU\bin\Debug\nl\DotSpatial.Projections.Forms.resources.dll
+C:\Users\asus\Desktop\BACK UP PSD\Responsi\SISKU\SISKU\bin\Debug\pt\DotSpatial.Projections.Forms.resources.dll
+C:\Users\asus\Desktop\BACK UP PSD\Responsi\SISKU\SISKU\bin\Debug\pt-BR\DotSpatial.Projections.Forms.resources.dll
+C:\Users\asus\Desktop\BACK UP PSD\Responsi\SISKU\SISKU\bin\Debug\ro\DotSpatial.Projections.Forms.resources.dll
+C:\Users\asus\Desktop\BACK UP PSD\Responsi\SISKU\SISKU\bin\Debug\th\DotSpatial.Projections.Forms.resources.dll
+C:\Users\asus\Desktop\BACK UP PSD\Responsi\SISKU\SISKU\bin\Debug\vi-VN\DotSpatial.Projections.Forms.resources.dll
+C:\Users\asus\Desktop\BACK UP PSD\Responsi\SISKU\SISKU\bin\Debug\zh-CN\DotSpatial.Projections.Forms.resources.dll
+C:\Users\asus\Desktop\BACK UP PSD\Responsi\SISKU\SISKU\bin\Debug\de-DE\DotSpatial.Symbology.resources.dll
+C:\Users\asus\Desktop\BACK UP PSD\Responsi\SISKU\SISKU\bin\Debug\cs\DotSpatial.Symbology.Forms.resources.dll
+C:\Users\asus\Desktop\BACK UP PSD\Responsi\SISKU\SISKU\bin\Debug\de-DE\DotSpatial.Symbology.Forms.resources.dll
+C:\Users\asus\Desktop\BACK UP PSD\Responsi\SISKU\SISKU\bin\Debug\en-US\DotSpatial.Symbology.Forms.resources.dll
+C:\Users\asus\Desktop\BACK UP PSD\Responsi\SISKU\SISKU\bin\Debug\it\DotSpatial.Symbology.Forms.resources.dll
+C:\Users\asus\Desktop\BACK UP PSD\Responsi\SISKU\SISKU\bin\Debug\it-IT\DotSpatial.Symbology.Forms.resources.dll
+C:\Users\asus\Desktop\BACK UP PSD\Responsi\SISKU\SISKU\bin\Debug\pt-BR\DotSpatial.Symbology.Forms.resources.dll
+C:\Users\asus\Desktop\BACK UP PSD\Responsi\SISKU\SISKU\bin\Debug\zh-CN\DotSpatial.Symbology.Forms.resources.dll
+C:\Users\asus\Desktop\BACK UP PSD\Responsi\SISKU\SISKU\obj\Debug\SISKU.vbproj.AssemblyReference.cache
+C:\Users\asus\Desktop\BACK UP PSD\Responsi\SISKU\SISKU\obj\Debug\SISKU.formAddPoint.resources
+C:\Users\asus\Desktop\BACK UP PSD\Responsi\SISKU\SISKU\obj\Debug\SISKU.formMainWindow.resources
+C:\Users\asus\Desktop\BACK UP PSD\Responsi\SISKU\SISKU\obj\Debug\SISKU.formPopUp.resources
+C:\Users\asus\Desktop\BACK UP PSD\Responsi\SISKU\SISKU\obj\Debug\SISKU.formProjection.resources
+C:\Users\asus\Desktop\BACK UP PSD\Responsi\SISKU\SISKU\obj\Debug\SISKU.Resources.resources
+C:\Users\asus\Desktop\BACK UP PSD\Responsi\SISKU\SISKU\obj\Debug\SISKU.vbproj.GenerateResource.cache
+C:\Users\asus\Desktop\BACK UP PSD\Responsi\SISKU\SISKU\obj\Debug\SISKU.vbproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\BACK UP PSD\Responsi\SISKU\SISKU\obj\Debug\SISKU.exe
+C:\Users\asus\Desktop\BACK UP PSD\Responsi\SISKU\SISKU\obj\Debug\SISKU.xml
+C:\Users\asus\Desktop\BACK UP PSD\Responsi\SISKU\SISKU\obj\Debug\SISKU.pdb
